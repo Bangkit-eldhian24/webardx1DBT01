@@ -175,3 +175,5 @@ Proyek ini dibuat untuk tujuan pembelajaran dan penggunaan lokal.
 ---
 
 **Dibuat dengan ❤️ menggunakan Flask dan Bootstrap**
+
+thx
