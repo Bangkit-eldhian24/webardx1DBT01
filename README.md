@@ -38,7 +38,7 @@ Website sistem manajemen data dengan database SQLite untuk mengelola user dan an
 ### 1. Clone Repository
 ```bash
 git clone <repository-url>
-cd websiteardx1tester
+cd webardx1DBT01
 ```
 
 ### 2. Install Dependencies
@@ -176,4 +176,5 @@ Proyek ini dibuat untuk tujuan pembelajaran dan penggunaan lokal.
 
 **Dibuat dengan ❤️ menggunakan Flask dan Bootstrap**
 
-thx
+scyla as dev
+archlin as A.I
