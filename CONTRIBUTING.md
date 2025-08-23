@@ -12,7 +12,7 @@ Terima kasih atas minat Anda untuk berkontribusi pada proyek Sistem Manajemen Da
 ```bash
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/websiteardx1tester.git
-cd websiteardx1tester
+cd webardx1DBT01
 
 # Buat virtual environment
 python -m venv venv
@@ -111,3 +111,6 @@ Jika ada pertanyaan, silakan:
 - Hubungi maintainer repository
 
 Terima kasih atas kontribusi Anda! 🎉
+
+ardxlin as A.I 
+scylaa as dev
