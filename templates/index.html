@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block title %}Sistem Manajemen Data - Beranda{% endblock %}
+
+{% block auth_content %}
+<div class="container">
+    <div class="row justify-content-center align-items-center min-vh-100">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-lg">
+                <div class="card-body p-5">
+                    <div class="text-center mb-4">
+                        <i class="fas fa-database fa-3x text-primary mb-3"></i>
+                        <h2 class="fw-bold">Sistem Manajemen Data</h2>
+                        <p class="text-muted">Kelola data user dan anggota dengan mudah dan aman</p>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <div class="d-grid">
+                                <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg">
+                                    <i class="fas fa-sign-in-alt me-2"></i>
+                                    Login
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <div class="d-grid">
+                                <a href="{{ url_for('register') }}" class="btn btn-outline-primary btn-lg">
+                                    <i class="fas fa-user-plus me-2"></i>
+                                    Register
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <hr class="my-4">
+                    
+                    <div class="row text-center">
+                        <div class="col-md-4">
+                            <i class="fas fa-users fa-2x text-primary mb-2"></i>
+                            <h5>Manajemen User</h5>
+                            <small class="text-muted">Kelola data pengguna sistem</small>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fas fa-address-book fa-2x text-primary mb-2"></i>
+                            <h5>Data Anggota</h5>
+                            <small class="text-muted">Kelola informasi anggota</small>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fas fa-shield-alt fa-2x text-primary mb-2"></i>
+                            <h5>Keamanan</h5>
+                            <small class="text-muted">Sistem login yang aman</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
