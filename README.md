@@ -149,6 +149,19 @@ lsof -ti:5000 | xargs kill -9
 rm users.db
 python app.py
 ```
+## Pastikan nih 100%
+```bash
+chmod +x run.sh
+./run.sh
+```
+
+## virtual eror gunakan ini
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python app.py
+```
 
 ## 📝 Catatan Penting
 
