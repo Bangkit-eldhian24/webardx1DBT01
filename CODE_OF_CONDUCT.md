@@ -44,4 +44,4 @@ Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], versi 1.4, terse
 
 [homepage]: https://www.contributor-covenant.org
 
-Untuk jawaban atas pertanyaan umum tentang kode etik ini, kirim email ke [EMAIL_ANDA@example.com]
+Untuk jawaban atas pertanyaan umum tentang kode etik ini, kirim email ke [bangkiteldhianepp@gmail.com]
