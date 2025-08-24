@@ -189,5 +189,6 @@ Proyek ini dibuat untuk tujuan pembelajaran dan penggunaan lokal.
 
 **Dibuat dengan ❤️ menggunakan Flask dan Bootstrap**
 
-scyla as dev
-archlin as A.I
+## Contributor
+- scyla as Student Developer
+- archlin as student Security
