@@ -112,5 +112,5 @@ Jika ada pertanyaan, silakan:
 
 Terima kasih atas kontribusi Anda! 🎉
 
-ardxlin as A.I 
-scylaa as dev
+## Writte by
+- Ardxlin-cute
