@@ -43,5 +43,3 @@ Maintainer proyek yang tidak mengikuti atau menegakkan Kode Etik dengan itikad b
 Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], versi 1.4, tersedia di https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
-
-Untuk jawaban atas pertanyaan umum tentang kode etik ini, kirim email ke bangkiteldhianepp@gmail.com
