@@ -190,11 +190,6 @@ Proyek ini dibuat untuk tujuan pembelajaran dan penggunaan lokal.
 **Dibuat dengan ❤️ menggunakan Flask dan Bootstrap**
 
 ## Contributor
-- scyla as Student Developer
-- archlin as student Security
-## tools
-- GPT as troubleshoot 1
-- Gemini  troubelshoot 2
-- Claude  both
-- Deepseek databases 1
-- Copilot as  coder
+- scyla as Noob
+- archlin as Nigga
+
