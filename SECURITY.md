@@ -70,10 +70,7 @@ Kami akan memberikan credit kepada reporter keamanan di:
 - Hall of fame (jika diinginkan)
 
 ## Contact
-
-Untuk pertanyaan keamanan:
-- Email: [bangkiteldhianpp@gmail.com]
-- PGP Key: [LINK_KE_PGP_KEY_ANDA]
+Mynigga ☠️
 
 ## Resources
 
